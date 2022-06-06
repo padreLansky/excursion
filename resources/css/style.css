@@ -19,6 +19,21 @@ h1 {
     font-weight: normal;
 }
 
+h2 {
+    font-size: 4.2rem;
+    font-weight: 300;
+}
+
+p {
+    font-size: 2.1rem;
+    color: Gray;
+}
+
 a {
+    font-size: 1.6rem;
     color: Aquamarine;
+}
+
+img {
+    max-width: 100%;
 }
